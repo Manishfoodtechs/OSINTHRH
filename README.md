@@ -1,4 +1,4 @@
-# OSINTHRH
+# OSINT-HRH
 OSINT FOR HUMAN RACE HEALTH.OS stands for Open Source while INT stand for Intelligent System. If you have data available from public / labs / hospitals / doctors then you can analyze it in different ways for betterment of Human Health races.
 
 (The United Nations, in a 1950 statement, opted to “drop the term ‘race’ altogether and speak of “ethnic groups”. In this case, there are more than 5,000 ethnic groups in the world, according to a 1998 study published in the Scientific American.
